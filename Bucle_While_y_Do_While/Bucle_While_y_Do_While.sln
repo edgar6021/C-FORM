@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucle_While_y_Do_While", "Bucle_While_y_Do_While.csproj", "{FFEC3E50-4E56-4822-A610-79970B678ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEC3E50-4E56-4822-A610-79970B678ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEC3E50-4E56-4822-A610-79970B678ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEC3E50-4E56-4822-A610-79970B678ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEC3E50-4E56-4822-A610-79970B678ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24EBA434-B8FE-4689-8093-25FDA7546AEE}
+	EndGlobalSection
+EndGlobal

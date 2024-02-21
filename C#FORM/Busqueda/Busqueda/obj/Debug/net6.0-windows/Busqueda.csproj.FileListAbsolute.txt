@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\bin\Debug\net6.0-windows\Busqueda.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\bin\Debug\net6.0-windows\Busqueda.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\bin\Debug\net6.0-windows\Busqueda.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\bin\Debug\net6.0-windows\Busqueda.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\bin\Debug\net6.0-windows\Busqueda.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\refint\Busqueda.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\Busqueda.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Busqueda\Busqueda\obj\Debug\net6.0-windows\ref\Busqueda.dll

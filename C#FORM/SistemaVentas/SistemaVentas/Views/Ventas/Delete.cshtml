@@ -1,0 +1,21 @@
+﻿@model SistemaVentas.Models.Venta
+
+<h2>Eliminar Venta</h2>
+
+<div>
+    <h4>¿Estás seguro que deseas eliminar la siguiente venta?</h4>
+    <h4>Cliente: @Model.Cliente.Nombre</h4>
+    <h4>Fecha de Venta: @Model.FechaVenta</h4>
+    <h4>Total Venta: @Model.TotalVenta</h4>
+    <!-- Otros detalles según sea necesario -->
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="VentaID" />
+    <input type="submit" value="Eliminar" class="btn btn-danger" />
+    <a asp-action="Index">Cancelar</a>
+</form>
+
+@section Scripts {
+    <!-- Scripts necesarios -->
+}

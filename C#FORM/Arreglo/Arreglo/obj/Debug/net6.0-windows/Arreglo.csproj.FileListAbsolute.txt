@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\bin\Debug\net6.0-windows\Arreglo.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\bin\Debug\net6.0-windows\Arreglo.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\bin\Debug\net6.0-windows\Arreglo.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\bin\Debug\net6.0-windows\Arreglo.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\bin\Debug\net6.0-windows\Arreglo.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\refint\Arreglo.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\Arreglo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Arreglo\Arreglo\obj\Debug\net6.0-windows\ref\Arreglo.dll

@@ -1,0 +1,14 @@
+﻿@model SistemaVentas.Models.Venta
+
+<h2>Detalles de la Venta</h2>
+
+<div>
+    <h4>Cliente: @Model.Cliente.Nombre</h4>
+    <h4>Fecha de Venta: @Model.FechaVenta</h4>
+    <h4>Total Venta: @Model.TotalVenta</h4>
+    <!-- Otros detalles según sea necesario -->
+</div>
+
+<p>
+    <a asp-action="Index">Volver a la lista</a>
+</p>

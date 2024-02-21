@@ -1,0 +1,34 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\bin\Debug\net6.0-windows\ref\Algoritmo.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\ref\Algoritmo.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.exe
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.deps.json
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.dll
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\bin\Debug\net6.0-windows\Algoritmo.pdb
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.dll
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\refint\Algoritmo.dll
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.pdb
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\Algoritmo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\Algoritmo\obj\Debug\net6.0-windows\ref\Algoritmo.dll

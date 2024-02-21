@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bucle_While_y_Do_While/1.0.0": {
+        "runtime": {
+          "Bucle_While_y_Do_While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bucle_While_y_Do_While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

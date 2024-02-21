@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\bin\Debug\net6.0-windows\BucleAnidados.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\bin\Debug\net6.0-windows\BucleAnidados.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\bin\Debug\net6.0-windows\BucleAnidados.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\bin\Debug\net6.0-windows\BucleAnidados.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\bin\Debug\net6.0-windows\BucleAnidados.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\refint\BucleAnidados.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\BucleAnidados.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleAnidados\BucleAnidados\obj\Debug\net6.0-windows\ref\BucleAnidados.dll

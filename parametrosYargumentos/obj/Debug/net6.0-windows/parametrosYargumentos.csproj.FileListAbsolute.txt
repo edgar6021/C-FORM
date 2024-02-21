@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\bin\Debug\net6.0-windows\parametrosYargumentos.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\bin\Debug\net6.0-windows\parametrosYargumentos.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\bin\Debug\net6.0-windows\parametrosYargumentos.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\bin\Debug\net6.0-windows\parametrosYargumentos.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\bin\Debug\net6.0-windows\ref\parametrosYargumentos.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\bin\Debug\net6.0-windows\parametrosYargumentos.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\ref\parametrosYargumentos.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\parametrosYargumentos\obj\Debug\net6.0-windows\parametrosYargumentos.genruntimeconfig.cache

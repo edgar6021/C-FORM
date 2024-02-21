@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\bin\Debug\net6.0-windows\BucleWhileYdo.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\bin\Debug\net6.0-windows\BucleWhileYdo.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\bin\Debug\net6.0-windows\BucleWhileYdo.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\bin\Debug\net6.0-windows\BucleWhileYdo.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\bin\Debug\net6.0-windows\BucleWhileYdo.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\refint\BucleWhileYdo.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\BucleWhileYdo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleWhileYdo\BucleWhileYdo\obj\Debug\net6.0-windows\ref\BucleWhileYdo.dll

@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\bin\Debug\net6.0-windows\Ordenamientos.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\bin\Debug\net6.0-windows\Ordenamientos.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\bin\Debug\net6.0-windows\Ordenamientos.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\bin\Debug\net6.0-windows\Ordenamientos.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\bin\Debug\net6.0-windows\Ordenamientos.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\refint\Ordenamientos.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\Ordenamientos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Ordenamientos\Ordenamientos\obj\Debug\net6.0-windows\ref\Ordenamientos.dll

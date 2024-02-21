@@ -1,0 +1,15 @@
+﻿@model SistemaVentas.Models.Usuario
+
+<h2>Eliminar Usuario</h2>
+
+<div>
+    <h4>¿Estás seguro que deseas eliminar el siguiente usuario?</h4>
+    <h4>Nombre Usuario: @Html.DisplayFor(model => model.NombreUsuario)</h4>
+    <!-- Agregar más detalles según sea necesario -->
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="UsuarioID" />
+    <input type="submit" value="Eliminar" class="btn btn-danger" />
+    <a asp-action="Index">Cancelar</a>
+</form>

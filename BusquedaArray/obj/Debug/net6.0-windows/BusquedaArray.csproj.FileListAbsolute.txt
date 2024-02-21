@@ -1,0 +1,34 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\bin\Debug\net6.0-windows\ref\BusquedaArray.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\ref\BusquedaArray.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.exe
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.deps.json
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.dll
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\bin\Debug\net6.0-windows\BusquedaArray.pdb
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.dll
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\refint\BusquedaArray.dll
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.pdb
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\BusquedaArray.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\BusquedaArray\obj\Debug\net6.0-windows\ref\BusquedaArray.dll

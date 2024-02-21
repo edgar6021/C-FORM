@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\bin\Debug\net6.0-windows\Condicional_if_else.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\bin\Debug\net6.0-windows\Condicional_if_else.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\bin\Debug\net6.0-windows\Condicional_if_else.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\bin\Debug\net6.0-windows\Condicional_if_else.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\bin\Debug\net6.0-windows\ref\Condicional_if_else.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\bin\Debug\net6.0-windows\Condicional_if_else.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\ref\Condicional_if_else.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else\obj\Debug\net6.0-windows\Condicional_if_else.genruntimeconfig.cache

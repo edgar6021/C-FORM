@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\bin\Debug\net6.0-windows\ArraysOrdenamiento.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\bin\Debug\net6.0-windows\ArraysOrdenamiento.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\bin\Debug\net6.0-windows\ArraysOrdenamiento.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\bin\Debug\net6.0-windows\ArraysOrdenamiento.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\bin\Debug\net6.0-windows\ref\ArraysOrdenamiento.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\bin\Debug\net6.0-windows\ArraysOrdenamiento.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ref\ArraysOrdenamiento.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\ArraysOrdenamiento\obj\Debug\net6.0-windows\ArraysOrdenamiento.genruntimeconfig.cache

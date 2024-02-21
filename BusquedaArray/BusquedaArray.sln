@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedaArray", "BusquedaArray.csproj", "{3B655814-CA36-4E43-BEA5-F6F8E6DF550D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B655814-CA36-4E43-BEA5-F6F8E6DF550D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B655814-CA36-4E43-BEA5-F6F8E6DF550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B655814-CA36-4E43-BEA5-F6F8E6DF550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B655814-CA36-4E43-BEA5-F6F8E6DF550D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BFD895C-A6BA-4EF7-9250-EA054292E94B}
+	EndGlobalSection
+EndGlobal

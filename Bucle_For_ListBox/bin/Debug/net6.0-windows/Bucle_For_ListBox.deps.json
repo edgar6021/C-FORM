@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bucle_For_ListBox/1.0.0": {
+        "runtime": {
+          "Bucle_For_ListBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bucle_For_ListBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

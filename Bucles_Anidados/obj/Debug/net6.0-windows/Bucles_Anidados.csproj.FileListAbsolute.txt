@@ -1,0 +1,34 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\bin\Debug\net6.0-windows\ref\Bucles_Anidados.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\ref\Bucles_Anidados.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.exe
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.deps.json
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.dll
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\bin\Debug\net6.0-windows\Bucles_Anidados.pdb
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.dll
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\refint\Bucles_Anidados.dll
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.pdb
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\Bucles_Anidados.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\Bucles_Anidados\obj\Debug\net6.0-windows\ref\Bucles_Anidados.dll

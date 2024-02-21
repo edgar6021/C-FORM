@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\bin\Debug\net6.0-windows\funcionesVoid.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\bin\Debug\net6.0-windows\funcionesVoid.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\bin\Debug\net6.0-windows\funcionesVoid.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\bin\Debug\net6.0-windows\funcionesVoid.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\bin\Debug\net6.0-windows\ref\funcionesVoid.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\bin\Debug\net6.0-windows\funcionesVoid.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\ref\funcionesVoid.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\funcionesVoid\obj\Debug\net6.0-windows\funcionesVoid.genruntimeconfig.cache

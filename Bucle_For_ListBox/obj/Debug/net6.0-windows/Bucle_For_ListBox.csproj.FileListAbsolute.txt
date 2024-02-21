@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\bin\Debug\net6.0-windows\Bucle_For_ListBox.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\bin\Debug\net6.0-windows\Bucle_For_ListBox.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\bin\Debug\net6.0-windows\Bucle_For_ListBox.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\bin\Debug\net6.0-windows\Bucle_For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\bin\Debug\net6.0-windows\ref\Bucle_For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\bin\Debug\net6.0-windows\Bucle_For_ListBox.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\ref\Bucle_For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Bucle_For_ListBox\obj\Debug\net6.0-windows\Bucle_For_ListBox.genruntimeconfig.cache

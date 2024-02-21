@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\bin\Debug\net6.0-windows\BucleFor.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\bin\Debug\net6.0-windows\BucleFor.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\bin\Debug\net6.0-windows\BucleFor.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\bin\Debug\net6.0-windows\BucleFor.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\bin\Debug\net6.0-windows\BucleFor.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\refint\BucleFor.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\BucleFor.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\BucleFor\BucleFor\obj\Debug\net6.0-windows\ref\BucleFor.dll

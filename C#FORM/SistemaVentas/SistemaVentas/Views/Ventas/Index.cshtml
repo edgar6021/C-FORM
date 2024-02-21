@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SistemaVentas.Models.Venta>
+
+<h2>Lista de Ventas</h2>
+
+<p>
+    <a asp-action="Create">Crear Nueva Venta</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cliente</th>
+            <th>Fecha de Venta</th>
+            <th>Total Venta</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venta in Model)
+        {
+            <tr>
+                <td>@venta.Cliente.Nombre</td>
+                <td>@venta.FechaVenta</td>
+                <td>@venta.TotalVenta</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@venta.VentaID">Detalles</a> |
+                    <a asp-action="Edit" asp-route-id="@venta.VentaID">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@venta.VentaID">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

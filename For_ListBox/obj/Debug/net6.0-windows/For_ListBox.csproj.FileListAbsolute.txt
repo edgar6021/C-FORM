@@ -1,0 +1,34 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\bin\Debug\net6.0-windows\ref\For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\ref\For_ListBox.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.exe
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.deps.json
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.dll
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\bin\Debug\net6.0-windows\For_ListBox.pdb
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.dll
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\refint\For_ListBox.dll
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.pdb
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\For_ListBox.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\For_ListBox\obj\Debug\net6.0-windows\ref\For_ListBox.dll

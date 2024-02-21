@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\bin\Debug\net6.0-windows\Facturacion.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\bin\Debug\net6.0-windows\Facturacion.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\bin\Debug\net6.0-windows\Facturacion.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\bin\Debug\net6.0-windows\Facturacion.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\bin\Debug\net6.0-windows\Facturacion.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\refint\Facturacion.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\Facturacion.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Facturacion\Facturacion\obj\Debug\net6.0-windows\ref\Facturacion.dll

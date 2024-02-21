@@ -1,0 +1,34 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\bin\Debug\net6.0-windows\ref\Condicional_if_else_if.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\ref\Condicional_if_else_if.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.exe
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.deps.json
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.dll
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\bin\Debug\net6.0-windows\Condicional_if_else_if.pdb
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.dll
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\refint\Condicional_if_else_if.dll
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.pdb
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\Condicional_if_else_if.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\Condicional_if_else_if\obj\Debug\net6.0-windows\ref\Condicional_if_else_if.dll

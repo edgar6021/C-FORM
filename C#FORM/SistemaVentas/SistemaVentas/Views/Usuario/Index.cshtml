@@ -1,0 +1,31 @@
+﻿@model IEnumerable<SistemaVentas.Models.Usuario>
+
+<h2>Usuarios</h2>
+
+<p>
+    <a asp-action="Create">Crear Nuevo Usuario</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre Usuario</th>
+            <!-- Agregar más columnas según sea necesario -->
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.NombreUsuario)</td>
+                <!-- Agregar más columnas según sea necesario -->
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.UsuarioID">Detalles</a> |
+                    <a asp-action="Edit" asp-route-id="@item.UsuarioID">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.UsuarioID">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

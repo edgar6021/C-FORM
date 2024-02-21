@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\bin\Debug\net6.0-windows\PrimerComponente.exe
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\bin\Debug\net6.0-windows\PrimerComponente.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\bin\Debug\net6.0-windows\PrimerComponente.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\bin\Debug\net6.0-windows\PrimerComponente.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\bin\Debug\net6.0-windows\ref\PrimerComponente.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\bin\Debug\net6.0-windows\PrimerComponente.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.Form1.resources
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\ref\PrimerComponente.dll
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Curso Basico de C#\C# TecnicoDDA\PrimerComponente\obj\Debug\net6.0-windows\PrimerComponente.genruntimeconfig.cache

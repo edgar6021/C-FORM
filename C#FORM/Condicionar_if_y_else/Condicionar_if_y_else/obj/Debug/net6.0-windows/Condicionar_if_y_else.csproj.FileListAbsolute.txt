@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\bin\Debug\net6.0-windows\Condicionar_if_y_else.exe
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\bin\Debug\net6.0-windows\Condicionar_if_y_else.deps.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\bin\Debug\net6.0-windows\Condicionar_if_y_else.runtimeconfig.json
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\bin\Debug\net6.0-windows\Condicionar_if_y_else.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\bin\Debug\net6.0-windows\Condicionar_if_y_else.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.Form1.resources
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\refint\Condicionar_if_y_else.dll
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.pdb
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\Condicionar_if_y_else.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# FORM\C#FORM\Condicionar_if_y_else\Condicionar_if_y_else\obj\Debug\net6.0-windows\ref\Condicionar_if_y_else.dll
